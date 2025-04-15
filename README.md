@@ -75,7 +75,7 @@ Katkılarınızı bekliyoruz! Lütfen bir Pull Request göndermeden önce deği�
 
 ## 👤 Geliştirici
 
-- [@ycagdass](https://github.com/ycagdass)
+- [@niranuynk](https://github.com/niranuynk)
 
 ---
 
